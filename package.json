@@ -17,6 +17,6 @@
     "prettier-fix": "prettier -w \"app/assets/**/*.{js,scss}\""
   },
   "dependencies": {
-    "@hotwired/turbo-rails": "^7.3.0"
+    "@hotwired/turbo-rails": "^8.0.12"
   }
 }
