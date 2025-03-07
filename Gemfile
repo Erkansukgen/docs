@@ -54,7 +54,7 @@ gem 'matrix'
 gem 'vite_rails'
 
 # No page reloads
-gem 'turbo-rails'
+gem 'turbo-rails', '>= 2.0.13'
 
 group :development, :test do
   # Call "byebug" anywhere in the code to stop execution and get a debugger console
