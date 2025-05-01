@@ -72,7 +72,7 @@ end
 
 group :test do
   # Who doesn't love tests!?
-  gem "rspec-rails"
+  gem "rspec-rails", ">= 8.0.0"
 
   # We want junit output so we can annotate the build
   gem "rspec_junit_formatter"
